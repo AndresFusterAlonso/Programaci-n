@@ -1,0 +1,13 @@
+C:\Users\Primero\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.exe
+C:\Users\Primero\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.deps.json
+C:\Users\Primero\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.runtimeconfig.json
+C:\Users\Primero\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.runtimeconfig.dev.json
+C:\Users\Primero\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.dll
+C:\Users\Primero\source\repos\Cronometro\Cronometro\bin\Debug\netcoreapp3.1\Cronometro.pdb
+C:\Users\Primero\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.csprojAssemblyReference.cache
+C:\Users\Primero\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.AssemblyInfoInputs.cache
+C:\Users\Primero\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.AssemblyInfo.cs
+C:\Users\Primero\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Primero\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.dll
+C:\Users\Primero\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.pdb
+C:\Users\Primero\source\repos\Cronometro\Cronometro\obj\Debug\netcoreapp3.1\Cronometro.genruntimeconfig.cache

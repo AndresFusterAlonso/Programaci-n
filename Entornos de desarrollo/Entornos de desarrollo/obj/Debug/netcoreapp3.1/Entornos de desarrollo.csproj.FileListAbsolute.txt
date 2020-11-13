@@ -1,0 +1,13 @@
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\bin\Debug\netcoreapp3.1\Entornos de desarrollo.exe
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\bin\Debug\netcoreapp3.1\Entornos de desarrollo.deps.json
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\bin\Debug\netcoreapp3.1\Entornos de desarrollo.runtimeconfig.json
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\bin\Debug\netcoreapp3.1\Entornos de desarrollo.runtimeconfig.dev.json
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\bin\Debug\netcoreapp3.1\Entornos de desarrollo.dll
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\bin\Debug\netcoreapp3.1\Entornos de desarrollo.pdb
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\obj\Debug\netcoreapp3.1\Entornos de desarrollo.csprojAssemblyReference.cache
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\obj\Debug\netcoreapp3.1\Entornos de desarrollo.AssemblyInfoInputs.cache
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\obj\Debug\netcoreapp3.1\Entornos de desarrollo.AssemblyInfo.cs
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\obj\Debug\netcoreapp3.1\Entornos de desarrollo.csproj.CoreCompileInputs.cache
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\obj\Debug\netcoreapp3.1\Entornos de desarrollo.dll
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\obj\Debug\netcoreapp3.1\Entornos de desarrollo.pdb
+C:\Users\Primero\source\repos\Entornos de desarrollo\Entornos de desarrollo\obj\Debug\netcoreapp3.1\Entornos de desarrollo.genruntimeconfig.cache
